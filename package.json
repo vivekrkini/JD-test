@@ -1,0 +1,21 @@
+{
+  "name": "jd-test",
+  "version": "1.0.0",
+  "description": "Tests for JDoodle features/functionalities",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekrkini/JD-test.git"
+  },
+  "keywords": [],
+  "author": "Vivek Kini",
+  "license": "NA",
+  "bugs": {
+    "url": "https://github.com/vivekrkini/JD-test/issues"
+  },
+  "homepage": "https://github.com/vivekrkini/JD-test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.5"
+  }
+}
